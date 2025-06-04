@@ -1,11 +1,8 @@
 👋 **Hi, I'm Robiu!** 🚀  
 
-💻 **Machine Learning Engineer** | 🎓 **Computer Science Student @ University of Ilorin, Nigeria**  
-🌍 **Microsoft Learn Student Ambassador** | 🏦 **Ambassador @ Cowrywise & BlackBox.ai**  
-
 
 ## 🚀 **About Me**  
-I'm a **passionate Machine Learning and AI enthusiast** with a strong foundation in **computer science, deep learning, cybersecurity, and Web3 technologies**. My journey began as a **computer operator at an NGO**, where I gained hands-on experience in **desktop publishing and graphics design**, training others successfully in these skills.  
+I'm a **passionate Machine Learning and AI engineer** building a strong foundation in **computer science, deep learning, cybersecurity, and Web3 technologies**. My journey began as a **computer operator at an NGO**, where I gained hands-on experience in **desktop publishing and graphics design**, training others successfully in these skills.  
 
 Now, I am actively pushing the boundaries of **AI innovation**, exploring how **machine learning, deep learning, and automation** can solve real-world challenges.  
 
