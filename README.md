@@ -1,42 +1,50 @@
-# Technical Onboarding Process
+## About Me
 
-Welcome to the GitHub repository for the [Microsoft Learn Student Ambassador](http://studentambassadors.microsoft.com/) Technical Onboarding Process. This is a template GitHub repository for Student Ambassadors to use in the technical onboarding experience.
+I am a Machine Learning Engineer and a Computer Science student at the University of Ilorin, Nigeria. Passionate about AI, deep learning, and cybersecurity, I thrive on solving complex problems and pushing the boundaries of innovation.
 
-By completing this Technical Onboarding Process, you will grow your skills with Microsoft Azure, you will become trained on the use of GitHub, you will complete one of the requirements for program advancement, and you will also get a certificate that will recognize your new technical abilities! 
- 
-As you are navigating this technical onboarding, please reference our [GitHub Discussions](https://github.com/microsoft/SATechnicalOnboarding/discussions) to ask any questions! If you encounter any issues, you can [open a GitHub Issue](https://github.com/microsoft/SATechnicalOnboarding/issues). Make sure to review other Ambassadors’ questions to help or get help! 
+As a Microsoft Learn Student Ambassador, I am dedicated to mentoring, organizing tech workshops, and empowering students to build impactful projects. I also serve as an Ambassador at Cowrywise and BlackBox.ai, contributing to financial literacy and AI advancements.
 
-> Note: Technical Onboarding was updated on April 18, 2023. See this Discussions post for more details https://github.com/microsoft/SATechnicalOnboarding/discussions/27
+Areas of Interest:
 
-## Resources for Completing the Technical Onboarding
-Start here ➡️➡️ [Technical Onboarding Instructions](https://github.com/microsoft/SATechnicalOnboarding/blob/main/technical-onboarding-instructions.md)
+✔️ Machine Learning & Deep Learning  
+✔️ Artificial Intelligence & Automation  
+✔️ Cybersecurity & Quantum Computing  
+✔️ Web3 & Blockchain Technologies  
+✔️ Finance & AI-powered Solutions
 
-[Technical Onboarding Troubleshooting Guide](https://github.com/microsoft/SATechnicalOnboarding/blob/main/troubleshooting-guide.md)
+🔥 What I Do
 
-## Suggested Materials for Learning About GitHub
-	
-[Introduction to GitHub](https://docs.microsoft.com/learn/modules/introduction-to-github/)
-	
-[Upload your project by using GitHub best practices](https://docs.microsoft.com/learn/modules/upload-project-github/)
-	
-[Communicate Effectively on GitHub by using Markdown](https://docs.microsoft.com/learn/modules/communicate-using-markdown/)
+*   Host and lead AI & tech workshops for students and professionals
+*   Develop innovative ML solutions tackling real-world challenges
+*   Engage in research & contributions to open-source projects
+*   Collaborate with thought leaders in the AI & tech ecosystem
 
+📊 Community Involvement  
+I believe in collaboration, leadership, and continuous learning. Through my ambassador roles, I create impactful learning experiences, upskill students, and drive AI adoption across different industries.
 
-## Additional Resources
+## My Skills
 
-[Manage repository changes by using pull requests on GitHub](https://docs.microsoft.com/learn/modules/manage-changes-pull-requests-github/)
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff"> 
+<img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white"> 
+<img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white"> 
+<img src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white"> 
+<img src="https://img.shields.io/badge/Anaconda-44A833?logo=anaconda&logoColor=fff"> 
+<img src="https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-web-services&logoColor=white"> 
+<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white"> 
+<img src="https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white"> 
+<img src="https://img.shields.io/badge/GitHub%20Copilot-000?logo=githubcopilot&logoColor=fff"> 
+<img src="https://img.shields.io/badge/Google%20Gemini-886FBF?logo=googlegemini&logoColor=fff"> 
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000"> 
+<img src="https://img.shields.io/badge/PyPI-3775A9?logo=pypi&logoColor=fff"> 
 
-[JavaScript for Beginners Video](https://www.youtube.com/watch?v=_EDM5aPVLmo&list=PLlrxD0HtieHhW0NCG7M536uHGOtJ95Ut2)
+## GitHub Stats
 
-[Static Web Apps Video](https://docs.microsoft.com/shows/azure-tips-and-tricks-static-web-apps/)
-	
-[Manage Git branches and workflows](https://docs.microsoft.com/learn/modules/manage-git-branches-workflows/)
-	
-[Settle competing commits by using merge conflict resolution on GitHub](https://docs.microsoft.com/learn/modules/resolve-merge-conflicts-github/)
-	
-[Build and deploy applications to Azure by using GitHub Actions](https://docs.microsoft.com/learn/modules/github-actions-cd/)
-	
-[Manage Source Control Learning Path](https://docs.microsoft.com/learn/paths/az-400-manage-source-control/)
+<table><tbody><tr border="none"><td width="50%" align="center">
+<img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/?username=Algebra101&theme=dark&show_icons=true&count_private=true">
 
-# Thank you for completing the Technical Onboarding! 
-If you would like to provide feedback or suggestions, [open a GitHub Issue](https://github.com/microsoft/SATechnicalOnboarding/issues) and we'll be sure to look into your suggestions! 😊
+<img alt="Mark streak" src="https://github-readme-streak-stats-five-roan.vercel.app?user=Algebra101&theme=dark"></td><td width="50%" align="center">
+<img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=Algebra101&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=6"></td></tr></tbody></table>
+
+## Connect with me
+
+<p align="center">🔗 LinkedIn: <a href="https://www.linkedin.com/in/robiu-olalere-107036252/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BiGf%2B8CAuS4mAOvGovT6qvg%3D%3D" target="_blank">Robiu Olalere</a> Email: olalererobiu67@gmail.com</p>
