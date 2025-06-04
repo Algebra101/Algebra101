@@ -9,7 +9,7 @@ Now, I am actively pushing the boundaries of **AI innovation**, exploring how **
 ## 🏆 **What I Do**  
 - **Building ML & AI models** for predictive analytics and automation  
 - **Hosting and leading tech workshops** to upskill students across universities  
-- **Engaging in AI-driven financial solutions** with **Cowrywise**  
+- **Engaging in AI-driven financial solutions**   
 - **Contributing to open-source projects & AI research**  
 - **Exploring deep learning, cybersecurity, and quantum computing**  
 
